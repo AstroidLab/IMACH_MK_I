@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+@model IMACH_MK_I.Models.User_LoginModel
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>IMACH - Login</title>
+</head>
+<body>
+    <link href="~/Content-Login/Css/Style.css" rel="stylesheet" />
+    <div class="login">
+        <h1>Giriş Yap</h1>
+        <div id="validSum" style="color:red;">@Html.ValidationSummary()</div>
+        <form method="post">
+            @Html.AntiForgeryToken()
+            <input type="text" name="Email" placeholder="E-Posta" required="required" />
+            <input type="password" name="Pass" placeholder="Şifre" required="required" />
+            <button type="submit" class="btn btn-primary btn-block btn-large">Giriş Yap</button>
+        </form>
+    </div>
+</body>
+</html>
+

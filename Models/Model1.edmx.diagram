@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ba5a5fddf7b74b5abe77da7cfb6c12a4" Name="Diagram1">
+        <EntityTypeShape EntityType="IMACH_MK_I_DBModel.Authorizations" Width="1.5" PointX="0.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IMACH_MK_I_DBModel.Items" Width="1.5" PointX="7.5" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IMACH_MK_I_DBModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IMACH_MK_I_DBModel.Types" Width="1.5" PointX="5.25" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IMACH_MK_I_DBModel.Users" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <AssociationConnector Association="IMACH_MK_I_DBModel.FK_Items_Types" ManuallyRouted="false" />
+        <AssociationConnector Association="IMACH_MK_I_DBModel.FK_Items_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="IMACH_MK_I_DBModel.FK_Types_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="IMACH_MK_I_DBModel.UserAuths" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
