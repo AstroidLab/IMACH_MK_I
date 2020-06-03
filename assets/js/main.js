@@ -1,11 +1,20 @@
 /**
-* Template Name: Baker - v2.0.0
-* Template URL: https://bootstrapmade.com/baker-free-onepage-bootstrap-theme/
+* Template Name: Hidayah - v2.0.0
+* Template URL: https://bootstrapmade.com/hidayah-free-simple-html-template-for-corporate/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
 !(function($) {
   "use strict";
+
+  // Preloader
+  $(window).on('load', function() {
+    if ($('#preloader').length) {
+      $('#preloader').delay(100).fadeOut('slow', function() {
+        $(this).remove();
+      });
+    }
+  });
 
   // Smooth scroll for the navigation menu and links with .scrollto classes
   $(document).on('click', '.nav-menu a, .mobile-nav a, .scrollto', function(e) {
@@ -15,14 +24,9 @@
       if (target.length) {
 
         var scrollto = target.offset().top;
-        var scrolled = 12;
 
         if ($('#header').length) {
-          scrollto -= $('#header').outerHeight()
-
-          if (!$('#header').hasClass('header-scrolled')) {
-            scrollto += scrolled;
-          }
+          scrollto -= $('#header').outerHeight();
         }
 
         if ($(this).attr("href") == '#header') {
@@ -119,6 +123,21 @@
     $('#header').addClass('header-scrolled');
   }
 
+  // Intro carousel
+  var heroCarousel = $("#heroCarousel");
+  var heroCarouselIndicators = $("#hero-carousel-indicators");
+  heroCarousel.find(".carousel-inner").children(".carousel-item").each(function(index) {
+    (index === 0) ?
+    heroCarouselIndicators.append("<li data-target='#heroCarousel' data-slide-to='" + index + "' class='active'></li>"):
+      heroCarouselIndicators.append("<li data-target='#heroCarousel' data-slide-to='" + index + "'></li>");
+  });
+
+  heroCarousel.on('slid.bs.carousel', function(e) {
+    $(this).find('h2').addClass('animated fadeInDown');
+    $(this).find('p').addClass('animated fadeInUp');
+    $(this).find('.btn-get-started').addClass('animated fadeInUp');
+  });
+
   // Back to top button
   $(window).scroll(function() {
     if ($(this).scrollTop() > 100) {
@@ -141,22 +160,13 @@
     time: 1000
   });
 
-  // Testimonials carousel (uses the Owl Carousel library)
-  $(".testimonials-carousel").owlCarousel({
-    autoplay: true,
-    dots: true,
-    loop: true,
-    responsive: {
-      0: {
-        items: 1
-      },
-      768: {
-        items: 2
-      },
-      900: {
-        items: 3
-      }
-    }
+  // Skills section
+  $('.skills-content').waypoint(function() {
+    $('.progress .progress-bar').each(function() {
+      $(this).css("width", $(this).attr("aria-valuenow") + '%');
+    });
+  }, {
+    offset: '80%'
   });
 
   // Porfolio isotope and filter
@@ -176,10 +186,9 @@
 
     // Initiate venobox (lightbox feature used in portofilo)
     $(document).ready(function() {
-      $('.venobox').venobox({
-        'share': false
-      });
+      $('.venobox').venobox();
     });
+
   });
 
   // Portfolio details carousel
@@ -191,3 +200,8 @@
   });
 
 })(jQuery);
+
+// Material Select Initialization
+$(document).ready(function () {
+    $('.mdb-select').materialSelect();
+});

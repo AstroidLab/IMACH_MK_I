@@ -9,8 +9,8 @@ using System.Web.Security;
 
 namespace IMACH_MK_I.Controllers
 {
-    [Authorize]
-    [AuthorizationChecker]
+    [Authorize] //forms authentication dan gelir authorize check yapar
+    [AuthorizationChecker] // ben yazdım kendi custom yetki kontrol sınıfım
     public class AdminController : Controller
     {
         IMACH_MK_I_DBEntities db = new IMACH_MK_I_DBEntities();
