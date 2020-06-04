@@ -109,12 +109,12 @@ h1, h2, h3, h4, h5, h6 {
     transition: all 0.5s;
     z-index: 997;
     padding: 15px 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgb(0, 0, 0);
 }
 
 
     #header.header-scrolled, #header.header-inner-pages {
-        background: rgba(23, 26, 29, 0.8);
+        background: #17a2b8;
     }
 
     #header .announce {
@@ -410,7 +410,7 @@ h1, h2, h3, h4, h5, h6 {
 
         #hero .carousel-item::before {
             content: '';
-            background-color: rgba(12, 13, 14, 0.0);
+            background-color: rgba(12, 13, 14, 0.5);
         }
 
     #hero .carousel-container {
@@ -432,7 +432,7 @@ h1, h2, h3, h4, h5, h6 {
         color: #fff;
         margin-bottom: 20px;
         font-family: Aero;
-        font-size: 40px;
+        font-size: 50px;
         font-weight: 700;
         -webkit-text-stroke: 0px black;
         color: white;
