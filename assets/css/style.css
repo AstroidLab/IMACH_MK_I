@@ -17,6 +17,7 @@ a {
         text-decoration: none;
     }
 
+
 h1, h2, h3, h4, h5, h6 {
     font-family: "Raleway", sans-serif;
 }
@@ -99,6 +100,8 @@ h1, h2, h3, h4, h5, h6 {
             color: #fff;
         }
 
+
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
@@ -109,26 +112,44 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+
     #header.header-scrolled, #header.header-inner-pages {
         background: rgba(23, 26, 29, 0.8);
     }
+
+    #header .announce {
+        font-size: 19px;
+        margin: 0;
+        padding: 0;
+        font-family: "Open Sans", sans-serif;
+        color: white;
+        margin: 0;
+        padding: 0;
+        -webkit-text-stroke: 0px black;
+        color: white;
+        text-shadow: 1px 0px 0 #000, 0px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    }
+
+
 
     #header .logo {
         font-size: 22px;
         margin: 0;
         padding: 0;
         font-family: Aero;
-        -webkit-text-stroke: 1px black;
+        -webkit-text-stroke: 0px black;
         color: white;
-        text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+        text-shadow: 1px 0px 0 #000, 0px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     }
+
+
 
         #header .logo a {
             font-size: 30px;
             margin: 0;
             padding: 0;
             font-family: Aero;
-            -webkit-text-stroke: 1px black;
+            -webkit-text-stroke: 0px black;
             color: white;
             text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
         }
@@ -136,6 +157,7 @@ h1, h2, h3, h4, h5, h6 {
         #header .logo img {
             max-height: 40px;
         }
+
 
 @media (max-width: 992px) {
     #header {
@@ -370,7 +392,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
     width: 100%;
     height: 100vh;
-    background-color: rgba(34, 39, 43, 0.4);
+    background-color: rgba(34, 39, 43, 0.9);
     overflow: hidden;
     position: relative;
 }
@@ -388,7 +410,7 @@ h1, h2, h3, h4, h5, h6 {
 
         #hero .carousel-item::before {
             content: '';
-            background-color: rgba(12, 13, 14, 0.4);
+            background-color: rgba(12, 13, 14, 0.0);
         }
 
     #hero .carousel-container {
@@ -412,7 +434,7 @@ h1, h2, h3, h4, h5, h6 {
         font-family: Aero;
         font-size: 40px;
         font-weight: 700;
-        -webkit-text-stroke: 1px black;
+        -webkit-text-stroke: 0px black;
         color: white;
         text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     }
@@ -423,7 +445,9 @@ h1, h2, h3, h4, h5, h6 {
         margin: 0 auto 30px auto;
         font-size: 20px;
         color: #fff;
-      
+        -webkit-text-stroke: 0px black;
+        color: white;
+        text-shadow: 0px 0px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     }
 
     #hero .carousel-inner .carousel-item {
@@ -517,6 +541,14 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+
+@media (max-width: 350px) {
+    #hero h2 {
+        font-size: 14px;
+    }
+}
+
+
 @media (min-width: 1024px) {
     #hero .carousel-control-prev, #hero .carousel-control-next {
         width: 5%;
@@ -528,7 +560,6 @@ h1, h2, h3, h4, h5, h6 {
         height: 120vh;
     }
 }
-
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
@@ -546,7 +577,7 @@ section {
 }
 
     .section-title h2 {
-        font-size: 13px;
+        font-size: 18px;
         letter-spacing: 1px;
         font-weight: 700;
         padding: 8px 20px;
@@ -583,9 +614,9 @@ section {
 /*--------------------------------------------------------------
 # ProductGroup
 --------------------------------------------------------------*/
-.productGroup .group-icon{
-    width:100%;
-    height:100%;
+.productGroup .group-icon {
+    width: 100%;
+    height: 100%;
 }
 
 
@@ -1588,3 +1619,4 @@ section {
     width: 100%;
     height: 100%;
 }
+
