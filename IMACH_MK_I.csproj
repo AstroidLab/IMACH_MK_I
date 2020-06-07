@@ -197,6 +197,8 @@
     <Content Include="assets\img\testimonials\testimonials-3.jpg" />
     <Content Include="assets\img\testimonials\testimonials-4.jpg" />
     <Content Include="assets\img\testimonials\testimonials-5.jpg" />
+    <Content Include="assets\js\MyCookieManager.js" />
+    <Content Include="assets\js\LangSelector.js" />
     <Content Include="assets\js\main.js" />
     <Content Include="assets\vendor\bootstrap\css\bootstrap-grid.css" />
     <Content Include="assets\vendor\bootstrap\css\bootstrap-grid.min.css" />
@@ -680,6 +682,8 @@
     <Content Include="Content_Panel\lib\font-awesome\fonts\fontawesome-webfont.woff" />
     <Content Include="Content_Panel\lib\font-awesome\fonts\fontawesome-webfont.woff2" />
     <Content Include="Content_Panel\lib\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="Resources\IndexLang.json" />
+    <Content Include="fonts\Aero.ttf" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />

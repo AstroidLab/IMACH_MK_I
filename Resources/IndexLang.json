@@ -1,0 +1,69 @@
+﻿{
+  "properties": [
+    {
+      "id": "SubTitle1",
+      "Tr": "turkce",
+      "Fr": "fransızca",
+      "En": "Slider Alt Başlık 1 İngilizce",
+      "Es": "ispanyolca",
+      "Ru": "Rusça",
+      "De": "almanca"
+    },
+    {
+      "id": "SubTitle2",
+      "Tr": "turkce",
+      "Fr": "fransızca",
+      "En": "Slider Alt Başlık 2 İngilizce",
+      "Es": "ispanyolca",
+      "Ru": "Rusça",
+      "De": "almanca"
+    },
+    {
+      "id": "SubTitle3",
+      "Tr": "turkce",
+      "Fr": "fransızca",
+      "En": "Slider Alt Başlık 3 İngilizce",
+      "Es": "ispanyolca",
+      "Ru": "Rusça",
+      "De": "almanca"
+    },
+    {
+      "id": "SubTitle4",
+      "Tr": "turkce",
+      "Fr": "fransızca",
+      "En": "Slider Alt Başlık 4 İngilizce",
+      "Es": "ispanyolca",
+      "Ru": "Rusça",
+      "De": "almanca"
+    },
+    {
+      "id": "btn1",
+      "Tr": "turkce",
+      "Fr": "fransızca",
+      "En": "Let's Begin",
+      "Es": "ispanyolca",
+      "Ru": "Rusça",
+      "De": "almanca"
+    },
+    {
+      "id": "btn1",
+      "Tr": "turkce",
+      "Fr": "fransızca",
+      "En": "Let's Begin",
+      "Es": "ispanyolca",
+      "Ru": "Rusça",
+      "De": "almanca"
+    },
+    {
+      "id": "btnContact",
+      "Tr": "İletişim",
+      "Fr": "LeContact",
+      "En": "Contact",
+      "Es": "Contactos",
+      "Ru": "Matruşka",
+      "De": "IchContact"
+    }
+
+  ]
+
+}

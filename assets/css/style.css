@@ -22,6 +22,13 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Raleway", sans-serif;
 }
 
+
+@font-face {
+    font-family: Aero;
+    src: url('../../fonts/Aero.ttf') format('truetype');
+}
+
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
@@ -33,7 +40,11 @@ h1, h2, h3, h4, h5, h6 {
     bottom: 0;
     z-index: 9999;
     overflow: hidden;
-    background: #fff;
+    background: rgb(255,255,255);
+    background: -moz-radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,35,70,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,35,70,1) 100%);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,35,70,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#002346",GradientType=1);
 }
 
     #preloader:before {
