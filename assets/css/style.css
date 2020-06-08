@@ -1688,7 +1688,7 @@ section {
 
 @media (max-width: 1200px) {
     .nav-tabs {
-        min-width: 1116px;
+        min-width: 910px;
         justify-content: unset;
         /*width: 120%;*/
     }
