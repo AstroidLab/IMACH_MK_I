@@ -2,9 +2,9 @@
   "properties": [
     {
       "id": "SubTitle1",
-      "Tr": "turkce",
+      "Tr": "Slider Alt Başlık 1",
       "Fr": "fransızca",
-      "En": "Slider Alt Başlık 1 İngilizce",
+      "En": "Annaounce 1",
       "Es": "ispanyolca",
       "Ru": "Rusça",
       "De": "almanca"
@@ -46,15 +46,6 @@
       "De": "almanca"
     },
     {
-      "id": "btn1",
-      "Tr": "turkce",
-      "Fr": "fransızca",
-      "En": "Let's Begin",
-      "Es": "ispanyolca",
-      "Ru": "Rusça",
-      "De": "almanca"
-    },
-    {
       "id": "btnContact",
       "Tr": "İletişim",
       "Fr": "LeContact",
@@ -62,8 +53,79 @@
       "Es": "Contactos",
       "Ru": "Matruşka",
       "De": "IchContact"
+    },
+    {
+      "id": "extrusionMain",
+      "Tr": "Ekstrüzyon Çözümleri",
+      "Fr": "Extrusion Solutions fr",
+      "En": "Extrusion Solutions",
+      "Es": "Extrusion Solutions es",
+      "Ru": "Extrusion Solutions ru",
+      "De": "Extrusion Solutions de"
+    },
+    {
+      "id": "extrusionLineTab",
+      "Tr": "Ekstruzyon Hatları",
+      "Fr": "Extrusion Lines fr",
+      "En": "Extrusion Lines",
+      "Es": "Extrusion Lines es",
+      "Ru": "Extrusion Lines ru",
+      "De": "Extrusion Lines de"
+    },
+    {
+      "id": "extruderTab",
+      "Tr": "Ekstruderler",
+      "Fr": "Extuders fr",
+      "En": "Extuders",
+      "Es": "Extuders es",
+      "Ru": "Extuders ru",
+      "De": "Extuders de"
+    },
+    {
+      "id": "crossHeadTab",
+      "Tr": "Ekstrüzyon Kafaları",
+      "Fr": "Crossheads fr",
+      "En": "Crossheads",
+      "Es": "Crossheads es",
+      "Ru": "Crossheads ru",
+      "De": "Crossheads de"
+    },
+    {
+      "id": "screwBarrelTab",
+      "Tr": "Vida ve Kovan",
+      "Fr": "Screw and Barrel fr",
+      "En": "Screw and Barrel",
+      "Es": "Screw and Barrel es",
+      "Ru": "Screw and Barrel ru",
+      "De": "Screw and Barrel de"
+    },
+    {
+      "id": "coolingThroughTab",
+      "Tr": "Soğutma Tüneli",
+      "Fr": "Extrusion Lines fr",
+      "En": "Coooling Through",
+      "Es": "Coooling Through es",
+      "Ru": "Coooling Through ru",
+      "De": "Coooling Through de"
+    },
+    {
+      "id": "tipDieTab",
+      "Tr": "Ayna ve Nipel",
+      "Fr": "Tip and Die fr",
+      "En": "Tip and Die",
+      "Es": "Tip and Die es",
+      "Ru": "Tip and Die ru",
+      "De": "Tip and Die de"
+    },
+    {
+      "id": "extrusionOtherTab",
+      "Tr": "Yardımcı Ekipmanlar",
+      "Fr": "Other Tools fr",
+      "En": "Other Tools",
+      "Es": "Other Tools es",
+      "Ru": "Other Tools ru",
+      "De": "Other Tools de"
     }
-
   ]
 
 }

@@ -208,7 +208,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
     .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-        color: #5697d0;
+        color: red;
     }
 
 .nav-menu .drop-down ul {
@@ -1624,6 +1624,17 @@ section {
 /*--------------------------------------------------------------
 # modal Carousel 
 --------------------------------------------------------------*/
+
+.modal-header {
+    background-color:#17a2b8;
+
+}
+    .modal-header h3 {
+        font-family: Aero;
+        -webkit-text-stroke: 0px black;
+        color: white;
+        text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    }
 
 
 .carousel-inner img {
