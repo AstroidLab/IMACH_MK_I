@@ -16,6 +16,7 @@
                 <div class="col-10">
                     <div class="row justify-content-center">
 
+
                         <div>
                             <div>
                                 <img src="~/assets/img/productGroup/1.png" class="img-fluid group-icon btn-outline-info" alt="" data-toggle="modal" href="#modalExstrusion">
@@ -260,9 +261,9 @@
                 <p>Takımımızın size söyleyecekleri var</p>
             </div>
 
-            <div class="row justify-content-center">
+            <div class="row">
                 <div class="col-xl-10">
-                    <div class="row">
+                    <div class="row d-flex justify-content-center">
 
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="member">
@@ -447,7 +448,7 @@
 
             <!--Body-->
 
-            <div class="modal-body">
+            <div class="modal-body" style="background:linear-gradient()">
 
                 <!--ModalMainMedia-->
                 <div class="row justify-content-center ">
@@ -477,36 +478,42 @@
                 <br />
                 <!--TabPanel-->
                 <div>
-                    <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
-                        <li class="nav-item">
-                            <a class="nav-link active" id="extrusionLineTab" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1"
-                               aria-selected="true">Tab1</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" id="extruderTab" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2"
-                               aria-selected="false">Tab2</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" id="crossHeadTab" data-toggle="tab" href="#tab3" role="tab" aria-controls="tab3"
-                               aria-selected="false">Tab3</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" id="screwBarrelTab" data-toggle="tab" href="#tab4" role="tab" aria-controls="tab4"
-                               aria-selected="false">Tab4</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" id="coolingThroughTab" data-toggle="tab" href="#tab5" role="tab" aria-controls="tab5"
-                               aria-selected="false">Tab5</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" id="tipDieTab" data-toggle="tab" href="#tab6" role="tab" aria-controls="tab6"
-                               aria-selected="false">Tab6</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" id="extrusionOtherTab" data-toggle="tab" href="#tab7" role="tab" aria-controls="tab7"
-                               aria-selected="false">Tab7</a>
-                        </li>
-                    </ul>
+                    <div class="row">
+                        <div class="d-xl-none d-lg-block col-1"><span id="tab-btn-right" class="tab-btn bx bx-left-arrow"></span></div>
+                        <div id="tab-control-frame" class="col-xl-12 col-sm-10 col-9 tab-control-frame ml-sm-0 ml-3  tab-control-frame">
+                            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="extrusionLineTab" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1"
+                                       aria-selected="true">Tab1</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="extruderTab" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2"
+                                       aria-selected="false">Tab2</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="crossHeadTab" data-toggle="tab" href="#tab3" role="tab" aria-controls="tab3"
+                                       aria-selected="false">Tab3</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="screwBarrelTab" data-toggle="tab" href="#tab4" role="tab" aria-controls="tab4"
+                                       aria-selected="false">Tab4</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="coolingThroughTab" data-toggle="tab" href="#tab5" role="tab" aria-controls="tab5"
+                                       aria-selected="false">Tab5</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tipDieTab" data-toggle="tab" href="#tab6" role="tab" aria-controls="tab6"
+                                       aria-selected="false">Tab6</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="extrusionOtherTab" data-toggle="tab" href="#tab7" role="tab" aria-controls="tab7"
+                                       aria-selected="false">Tab7</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="d-xl-none d-lg-block col-1"><span id="tab-btn-left" class="tab-btn bx bx-right-arrow"></span></div>
+                    </div>
                     <br />
                     <div class="tab-content" id="myTabContent">
                         <div class="tab-pane fade show active" id="tab1" role="tabpanel" aria-labelledby="tab1">
@@ -943,17 +950,31 @@
 @section BeforeBodyClose{
     <script>
         LangReq("Index");
+
+        $('#tab-btn-left').click(function () {
+            event.preventDefault();
+            $('#tab-control-frame').animate({
+                scrollLeft: "+=200px"
+            }, "slow");
+        });
+
+        $('#tab-btn-right').click(function () {
+            event.preventDefault();
+            $('#tab-control-frame').animate({
+                scrollLeft: "-=200px"
+            }, "slow");
+        });
     </script>
 
 
+    @*<script>
+        //// Material Select Initialization
+        //$(document).ready(function () {
+        //    $('.mdb-select').materialSelect();
+        //});
+
+
+    </script>*@
 }
-<script>
-    // Material Select Initialization
-    $(document).ready(function () {
-        $('.mdb-select').materialSelect();
-    });
-
-
-</script>
 
 

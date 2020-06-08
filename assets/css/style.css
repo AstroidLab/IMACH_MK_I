@@ -1626,9 +1626,9 @@ section {
 --------------------------------------------------------------*/
 
 .modal-header {
-    background-color:#17a2b8;
-
+    background-color: #17a2b8;
 }
+
     .modal-header h3 {
         font-family: Aero;
         -webkit-text-stroke: 0px black;
@@ -1636,9 +1636,73 @@ section {
         text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     }
 
+.modal-body {
+    color: white;
+    background: #707070;
+    font-family: Helvetica, sans-serif
+}
 
 .carousel-inner img {
     width: 100%;
     height: 100%;
 }
 
+.embed-responsive {
+    border: 1px solid white;
+}
+
+#modalCarousel1 {
+    border: 1px solid white;
+}
+
+.tab-control-frame {
+    height: 43px;
+    max-height: 43px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 53px;
+}
+
+
+    .tab-control-frame::-webkit-scrollbar {
+        height: 11px;
+    }
+
+    .tab-control-frame::-webkit-scrollbar-track {
+        box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    }
+
+    .tab-control-frame::-webkit-scrollbar-thumb {
+        background-color: darkgrey;
+        outline: 1px solid slategrey;
+    }
+
+.nav-tabs {
+    justify-content: center;
+}
+
+.tab-btn {
+    font-size: 32px;
+    color: darkgrey;
+}
+
+@media (max-width: 1200px) {
+    .nav-tabs {
+        min-width: 1116px;
+        justify-content: unset;
+        /*width: 120%;*/
+    }
+
+    .tab-control-frame {
+        width: 89%;
+        padding-right: 1%;
+        padding-left: 1%;
+    }
+}
+
+
+.nav-item {
+    margin-bottom: -1px;
+    float: left;
+    width: auto;
+}
