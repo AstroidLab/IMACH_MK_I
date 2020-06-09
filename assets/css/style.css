@@ -1682,8 +1682,9 @@ section {
 }
 
 .tab-btn {
-    font-size: 32px;
+    font-size: 20px;
     color: darkgrey;
+    padding-top: 18px;
 }
 
 @media (max-width: 1200px) {
