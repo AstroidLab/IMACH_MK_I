@@ -440,12 +440,26 @@
 
                 <h3> IMACH Machines<br /> <a id="extrusionMain"></a></h3>
 
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true" class="white-text">&times;</span>
-                </button>
+                <nav class="nav-menu d-none d-lg-block ">
+
+                    <ul>
+                        <li id="liLangTr" onclick="ChangeLangCookie('Tr')" class="liLang active"><a href="#">Tr</a></li>
+                        <li id="liLangEn" class="liLang"><a onclick="ChangeLangCookie('En')" href="#">En</a></li>
+                        <li id="liLangEs" class="liLang"><a onclick="ChangeLangCookie('Es')" href="#">Es</a></li>
+                        <li id="liLangFr" class="liLang"><a onclick="ChangeLangCookie('Fr')" href="#">Fr</a></li>
+                        <li id="liLangRu" class="liLang"><a onclick="ChangeLangCookie('Ru')" href="#">Ru</a></li>
+                        <li id="liLangDe" class="liLang"><a onclick="ChangeLangCookie('De')" href="#">De</a></li>
+                        <li>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true" class="white-text">&times;</span>
+                            </button>
+                        </li>
+                        
+                    </ul>
+
+                </nav>
 
             </div>
-
             <!--Body-->
 
             <div class="modal-body" style="background:linear-gradient()">
@@ -464,12 +478,11 @@
                     <!--Anounces-->
                     <div class="col-md-6 col-lg-6 col-xl-6">
                         <ul>
-                            <li><h6>Yüksek Verim</h6></li>
-                            <li><h6>Kullanıcı Dostu Arayüz</h6></li>
-                            <li><h6>Sıvı Sağutmalı Redüktör</h6></li>
-                            <li><h6>Direct Drive Güç Aktarımı</h6></li>
-                            <li><h6>Kovan Çıkışında Basınç Sensörü</h6></li>
-                            <li><h6>Merkezden Vida Soğutma Hazırlığı</h6></li>
+                            <li><h6 id="insulatingLi1"></h6></li>
+                            <li><h6 id="insulatingLi2">Kullanıcı Dostu Arayüz</h6></li>
+                            <li><h6 id="insulatingLi3">Sıvı Sağutmalı Redüktör</h6></li>
+                            <li><h6 id="insulatingLi4">Direct Drive Güç Aktarımı</h6></li>
+                            <li><h6 id="insulatingLi5">Kovan Çıkışında Basınç Sensörü</h6></li>
 
                         </ul>
 
@@ -968,13 +981,13 @@
 
 
     @*<script>
-        //// Material Select Initialization
-        //$(document).ready(function () {
-        //    $('.mdb-select').materialSelect();
-        //});
+            //// Material Select Initialization
+            //$(document).ready(function () {
+            //    $('.mdb-select').materialSelect();
+            //});
 
 
-    </script>*@
+        </script>*@
 }
 
 

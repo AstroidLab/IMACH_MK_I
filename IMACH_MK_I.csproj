@@ -705,6 +705,7 @@
     <Content Include="Content_Panel\lib\font-awesome\fonts\FontAwesome.otf" />
     <Content Include="Resources\IndexLang.json" />
     <Content Include="fonts\Aero.ttf" />
+    <Content Include="Resources\webSiteText.xlsx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />

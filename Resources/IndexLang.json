@@ -1,131 +1,1626 @@
 ﻿{
   "properties": [
     {
-      "id": "SubTitle1",
-      "Tr": "Slider Alt Başlık 1",
-      "Fr": "fransızca",
-      "En": "Annaounce 1",
-      "Es": "ispanyolca",
-      "Ru": "Rusça",
-      "De": "almanca"
+      "id": "Subtitle1",
+      "Tr": "Subtitle1-Tr",
+      "En": "Subtitle1-En",
+      "Ru": "Subtitle1-Ru",
+      "Fr": "Subtitle1-Fr",
+      "Es": "Subtitle1-Es",
+      "De": "Subtitle1-De"
     },
     {
-      "id": "SubTitle2",
-      "Tr": "turkce",
-      "Fr": "fransızca",
-      "En": "Slider Alt Başlık 2 İngilizce",
-      "Es": "ispanyolca",
-      "Ru": "Rusça",
-      "De": "almanca"
+      "id": "Subtitle2",
+      "Tr": "Subtitle2-Tr",
+      "En": "Subtitle2-En",
+      "Ru": "Subtitle2-Ru",
+      "Fr": "Subtitle2-Fr",
+      "Es": "Subtitle2-Es",
+      "De": "Subtitle2-De"
     },
     {
-      "id": "SubTitle3",
-      "Tr": "turkce",
-      "Fr": "fransızca",
-      "En": "Slider Alt Başlık 3 İngilizce",
-      "Es": "ispanyolca",
-      "Ru": "Rusça",
-      "De": "almanca"
+      "id": "Subtitle3",
+      "Tr": "Subtitle3-Tr",
+      "En": "Subtitle3-En",
+      "Ru": "Subtitle3-Ru",
+      "Fr": "Subtitle3-Fr",
+      "Es": "Subtitle3-Es",
+      "De": "Subtitle3-De"
     },
     {
-      "id": "SubTitle4",
-      "Tr": "turkce",
-      "Fr": "fransızca",
-      "En": "Slider Alt Başlık 4 İngilizce",
-      "Es": "ispanyolca",
-      "Ru": "Rusça",
-      "De": "almanca"
+      "id": "Subtitle4",
+      "Tr": "Subtitle4-Tr",
+      "En": "Subtitle4-En",
+      "Ru": "Subtitle4-Ru",
+      "Fr": "Subtitle4-Fr",
+      "Es": "Subtitle4-Es",
+      "De": "Subtitle4-De"
     },
     {
       "id": "btn1",
-      "Tr": "turkce",
-      "Fr": "fransızca",
-      "En": "Let's Begin",
-      "Es": "ispanyolca",
-      "Ru": "Rusça",
-      "De": "almanca"
+      "Tr": "btn1-Tr",
+      "En": "btn1-En",
+      "Ru": "btn1-Ru",
+      "Fr": "btn1-Fr",
+      "Es": "btn1-Es",
+      "De": "btn1-De"
     },
     {
       "id": "btnContact",
-      "Tr": "İletişim",
-      "Fr": "LeContact",
-      "En": "Contact",
-      "Es": "Contactos",
-      "Ru": "Matruşka",
-      "De": "IchContact"
+      "Tr": "btnContact-Tr",
+      "En": "btnContact-En",
+      "Ru": "btnContact-Ru",
+      "Fr": "btnContact-Fr",
+      "Es": "btnContact-Es",
+      "De": "btnContact-De"
     },
     {
-      "id": "extrusionMain",
-      "Tr": "Ekstrüzyon Çözümleri",
-      "Fr": "Extrusion Solutions fr",
-      "En": "Extrusion Solutions",
-      "Es": "Extrusion Solutions es",
-      "Ru": "Extrusion Solutions ru",
-      "De": "Extrusion Solutions de"
+      "id": "insulatingMain",
+      "Tr": "insulatingMain-Tr",
+      "En": "insulatingMain-En",
+      "Ru": "insulatingMain-Ru",
+      "Fr": "insulatingMain-Fr",
+      "Es": "insulatingMain-Es",
+      "De": "insulatingMain-De"
+    },
+    {
+      "id": "insulatingLi1",
+      "Tr": "insulatingLi1-Tr",
+      "En": "insulatingLi1-En",
+      "Ru": "insulatingLi1-Ru",
+      "Fr": "insulatingLi1-Fr",
+      "Es": "insulatingLi1-Es",
+      "De": "insulatingLi1-De"
+    },
+    {
+      "id": "insulatingLi2",
+      "Tr": "insulatingLi2-Tr",
+      "En": "insulatingLi2-En",
+      "Ru": "insulatingLi2-Ru",
+      "Fr": "insulatingLi2-Fr",
+      "Es": "insulatingLi2-Es",
+      "De": "insulatingLi2-De"
+    },
+    {
+      "id": "insulatingLi3",
+      "Tr": "insulatingLi3-Tr",
+      "En": "insulatingLi3-En",
+      "Ru": "insulatingLi3-Ru",
+      "Fr": "insulatingLi3-Fr",
+      "Es": "insulatingLi3-Es",
+      "De": "insulatingLi3-De"
+    },
+    {
+      "id": "insulatingLi4",
+      "Tr": "insulatingLi4-Tr",
+      "En": "insulatingLi4-En",
+      "Ru": "insulatingLi4-Ru",
+      "Fr": "insulatingLi4-Fr",
+      "Es": "insulatingLi4-Es",
+      "De": "insulatingLi4-De"
+    },
+    {
+      "id": "insulatingLi5",
+      "Tr": "insulatingLi5-Tr",
+      "En": "insulatingLi5-En",
+      "Ru": "insulatingLi5-Ru",
+      "Fr": "insulatingLi5-Fr",
+      "Es": "insulatingLi5-Es",
+      "De": "insulatingLi5-De"
     },
     {
       "id": "extrusionLineTab",
-      "Tr": "Ekstruzyon Hatları",
-      "Fr": "Extrusion Lines fr",
-      "En": "Extrusion Lines",
-      "Es": "Extrusion Lines es",
-      "Ru": "Extrusion Lines ru",
-      "De": "Extrusion Lines de"
+      "Tr": "extrusionLineTab-Tr",
+      "En": "extrusionLineTab-En",
+      "Ru": "extrusionLineTab-Ru",
+      "Fr": "extrusionLineTab-Fr",
+      "Es": "extrusionLineTab-Es",
+      "De": "extrusionLineTab-De"
+    },
+    {
+      "id": "info-extrusionLineTab",
+      "Tr": "info-extrusionLineTab-Tr",
+      "En": "info-extrusionLineTab-En",
+      "Ru": "info-extrusionLineTab-Ru",
+      "Fr": "info-extrusionLineTab-Fr",
+      "Es": "info-extrusionLineTab-Es",
+      "De": "info-extrusionLineTab-De"
     },
     {
       "id": "extruderTab",
-      "Tr": "Ekstruderler",
-      "Fr": "Extuders fr",
-      "En": "Extuders",
-      "Es": "Extuders es",
-      "Ru": "Extuders ru",
-      "De": "Extuders de"
+      "Tr": "extruderTab-Tr",
+      "En": "extruderTab-En",
+      "Ru": "extruderTab-Ru",
+      "Fr": "extruderTab-Fr",
+      "Es": "extruderTab-Es",
+      "De": "extruderTab-De"
+    },
+    {
+      "id": "info-extruderTab",
+      "Tr": "info-extruderTab-Tr",
+      "En": "info-extruderTab-En",
+      "Ru": "info-extruderTab-Ru",
+      "Fr": "info-extruderTab-Fr",
+      "Es": "info-extruderTab-Es",
+      "De": "info-extruderTab-De"
     },
     {
       "id": "crossHeadTab",
-      "Tr": "Ekstrüzyon Kafaları",
-      "Fr": "Crossheads fr",
-      "En": "Crossheads",
-      "Es": "Crossheads es",
-      "Ru": "Crossheads ru",
-      "De": "Crossheads de"
+      "Tr": "crossHeadTab-Tr",
+      "En": "crossHeadTab-En",
+      "Ru": "crossHeadTab-Ru",
+      "Fr": "crossHeadTab-Fr",
+      "Es": "crossHeadTab-Es",
+      "De": "crossHeadTab-De"
+    },
+    {
+      "id": "info-crossHeadTab",
+      "Tr": "info-crossHeadTab-Tr",
+      "En": "info-crossHeadTab-En",
+      "Ru": "info-crossHeadTab-Ru",
+      "Fr": "info-crossHeadTab-Fr",
+      "Es": "info-crossHeadTab-Es",
+      "De": "info-crossHeadTab-De"
     },
     {
       "id": "screwBarrelTab",
-      "Tr": "Vida ve Kovan",
-      "Fr": "Screw and Barrel fr",
-      "En": "Screw and Barrel",
-      "Es": "Screw and Barrel es",
-      "Ru": "Screw and Barrel ru",
-      "De": "Screw and Barrel de"
+      "Tr": "screwBarrelTab-Tr",
+      "En": "screwBarrelTab-En",
+      "Ru": "screwBarrelTab-Ru",
+      "Fr": "screwBarrelTab-Fr",
+      "Es": "screwBarrelTab-Es",
+      "De": "screwBarrelTab-De"
+    },
+    {
+      "id": "info-screwBarrelTab",
+      "Tr": "info-screwBarrelTab-Tr",
+      "En": "info-screwBarrelTab-En",
+      "Ru": "info-screwBarrelTab-Ru",
+      "Fr": "info-screwBarrelTab-Fr",
+      "Es": "info-screwBarrelTab-Es",
+      "De": "info-screwBarrelTab-De"
     },
     {
       "id": "coolingThroughTab",
-      "Tr": "Soğutma Tüneli",
-      "Fr": "Extrusion Lines fr",
-      "En": "Coooling Through",
-      "Es": "Coooling Through es",
-      "Ru": "Coooling Through ru",
-      "De": "Coooling Through de"
+      "Tr": "coolingThroughTab-Tr",
+      "En": "coolingThroughTab-En",
+      "Ru": "coolingThroughTab-Ru",
+      "Fr": "coolingThroughTab-Fr",
+      "Es": "coolingThroughTab-Es",
+      "De": "coolingThroughTab-De"
     },
     {
-      "id": "tipDieTab",
-      "Tr": "Ayna ve Nipel",
-      "Fr": "Tip and Die fr",
-      "En": "Tip and Die",
-      "Es": "Tip and Die es",
-      "Ru": "Tip and Die ru",
-      "De": "Tip and Die de"
+      "id": "info-coolingThroughTab",
+      "Tr": "info-coolingThroughTab-Tr",
+      "En": "info-coolingThroughTab-En",
+      "Ru": "info-coolingThroughTab-Ru",
+      "Fr": "info-coolingThroughTab-Fr",
+      "Es": "info-coolingThroughTab-Es",
+      "De": "info-coolingThroughTab-De"
     },
     {
-      "id": "extrusionOtherTab",
-      "Tr": "Yardımcı Ekipmanlar",
-      "Fr": "Other Tools fr",
-      "En": "Other Tools",
-      "Es": "Other Tools es",
-      "Ru": "Other Tools ru",
-      "De": "Other Tools de"
+      "id": "tipAndDieTap",
+      "Tr": "tipAndDieTap-Tr",
+      "En": "tipAndDieTap-En",
+      "Ru": "tipAndDieTap-Ru",
+      "Fr": "tipAndDieTap-Fr",
+      "Es": "tipAndDieTap-Es",
+      "De": "tipAndDieTap-De"
+    },
+    {
+      "id": "info-tipAndDieTap",
+      "Tr": "info-tipAndDieTap-Tr",
+      "En": "info-tipAndDieTap-En",
+      "Ru": "info-tipAndDieTap-Ru",
+      "Fr": "info-tipAndDieTap-Fr",
+      "Es": "info-tipAndDieTap-Es",
+      "De": "info-tipAndDieTap-De"
+    },
+    {
+      "id": "insulationSpareTab",
+      "Tr": "insulationSpareTab-Tr",
+      "En": "insulationSpareTab-En",
+      "Ru": "insulationSpareTab-Ru",
+      "Fr": "insulationSpareTab-Fr",
+      "Es": "insulationSpareTab-Es",
+      "De": "insulationSpareTab-De"
+    },
+    {
+      "id": "info-insulationSpareTab",
+      "Tr": "info-insulationSpareTab-Tr",
+      "En": "info-insulationSpareTab-En",
+      "Ru": "info-insulationSpareTab-Ru",
+      "Fr": "info-insulationSpareTab-Fr",
+      "Es": "info-insulationSpareTab-Es",
+      "De": "info-insulationSpareTab-De"
+    },
+    {
+      "id": "bunchingMain",
+      "Tr": "bunchingMain-Tr",
+      "En": "bunchingMain-En",
+      "Ru": "bunchingMain-Ru",
+      "Fr": "bunchingMain-Fr",
+      "Es": "bunchingMain-Es",
+      "De": "bunchingMain-De"
+    },
+    {
+      "id": "bunchingLi1",
+      "Tr": "bunchingLi1-Tr",
+      "En": "bunchingLi1-En",
+      "Ru": "bunchingLi1-Ru",
+      "Fr": "bunchingLi1-Fr",
+      "Es": "bunchingLi1-Es",
+      "De": "bunchingLi1-De"
+    },
+    {
+      "id": "bunchingLi2",
+      "Tr": "bunchingLi2-Tr",
+      "En": "bunchingLi2-En",
+      "Ru": "bunchingLi2-Ru",
+      "Fr": "bunchingLi2-Fr",
+      "Es": "bunchingLi2-Es",
+      "De": "bunchingLi2-De"
+    },
+    {
+      "id": "bunchingLi3",
+      "Tr": "bunchingLi3-Tr",
+      "En": "bunchingLi3-En",
+      "Ru": "bunchingLi3-Ru",
+      "Fr": "bunchingLi3-Fr",
+      "Es": "bunchingLi3-Es",
+      "De": "bunchingLi3-De"
+    },
+    {
+      "id": "bunchingLi4",
+      "Tr": "bunchingLi4-Tr",
+      "En": "bunchingLi4-En",
+      "Ru": "bunchingLi4-Ru",
+      "Fr": "bunchingLi4-Fr",
+      "Es": "bunchingLi4-Es",
+      "De": "bunchingLi4-De"
+    },
+    {
+      "id": "bunchingLi5",
+      "Tr": "bunchingLi5-Tr",
+      "En": "bunchingLi5-En",
+      "Ru": "bunchingLi5-Ru",
+      "Fr": "bunchingLi5-Fr",
+      "Es": "bunchingLi5-Es",
+      "De": "bunchingLi5-De"
+    },
+    {
+      "id": "doubleTwistLineTab",
+      "Tr": "doubleTwistLineTab-Tr",
+      "En": "doubleTwistLineTab-En",
+      "Ru": "doubleTwistLineTab-Ru",
+      "Fr": "doubleTwistLineTab-Fr",
+      "Es": "doubleTwistLineTab-Es",
+      "De": "doubleTwistLineTab-De"
+    },
+    {
+      "id": "info-doubleTwistLineTab",
+      "Tr": "info-doubleTwistLineTab-Tr",
+      "En": "info-doubleTwistLineTab-En",
+      "Ru": "info-doubleTwistLineTab-Ru",
+      "Fr": "info-doubleTwistLineTab-Fr",
+      "Es": "info-doubleTwistLineTab-Es",
+      "De": "info-doubleTwistLineTab-De"
+    },
+    {
+      "id": "singleTwistLineTab",
+      "Tr": "singleTwistLineTab-Tr",
+      "En": "singleTwistLineTab-En",
+      "Ru": "singleTwistLineTab-Ru",
+      "Fr": "singleTwistLineTab-Fr",
+      "Es": "singleTwistLineTab-Es",
+      "De": "singleTwistLineTab-De"
+    },
+    {
+      "id": "info-singleTwistLineTab",
+      "Tr": "info-singleTwistLineTab-Tr",
+      "En": "info-singleTwistLineTab-En",
+      "Ru": "info-singleTwistLineTab-Ru",
+      "Fr": "info-singleTwistLineTab-Fr",
+      "Es": "info-singleTwistLineTab-Es",
+      "De": "info-singleTwistLineTab-De"
+    },
+    {
+      "id": "doubleTwistTab",
+      "Tr": "doubleTwistTab-Tr",
+      "En": "doubleTwistTab-En",
+      "Ru": "doubleTwistTab-Ru",
+      "Fr": "doubleTwistTab-Fr",
+      "Es": "doubleTwistTab-Es",
+      "De": "doubleTwistTab-De"
+    },
+    {
+      "id": "info-doubleTwistTab",
+      "Tr": "info-doubleTwistTab-Tr",
+      "En": "info-doubleTwistTab-En",
+      "Ru": "info-doubleTwistTab-Ru",
+      "Fr": "info-doubleTwistTab-Fr",
+      "Es": "info-doubleTwistTab-Es",
+      "De": "info-doubleTwistTab-De"
+    },
+    {
+      "id": "singleTwistTab",
+      "Tr": "singleTwistTab-Tr",
+      "En": "singleTwistTab-En",
+      "Ru": "singleTwistTab-Ru",
+      "Fr": "singleTwistTab-Fr",
+      "Es": "singleTwistTab-Es",
+      "De": "singleTwistTab-De"
+    },
+    {
+      "id": "info-singleTwistTab",
+      "Tr": "info-singleTwistTab-Tr",
+      "En": "info-singleTwistTab-En",
+      "Ru": "info-singleTwistTab-Ru",
+      "Fr": "info-singleTwistTab-Fr",
+      "Es": "info-singleTwistTab-Es",
+      "De": "info-singleTwistTab-De"
+    },
+    {
+      "id": "bunchingSpareTab",
+      "Tr": "bunchingSpareTab-Tr",
+      "En": "bunchingSpareTab-En",
+      "Ru": "bunchingSpareTab-Ru",
+      "Fr": "bunchingSpareTab-Fr",
+      "Es": "bunchingSpareTab-Es",
+      "De": "bunchingSpareTab-De"
+    },
+    {
+      "id": "info-bunchingSpareTab",
+      "Tr": "info-bunchingSpareTab-Tr",
+      "En": "info-bunchingSpareTab-En",
+      "Ru": "info-bunchingSpareTab-Ru",
+      "Fr": "info-bunchingSpareTab-Fr",
+      "Es": "info-bunchingSpareTab-Es",
+      "De": "info-bunchingSpareTab-De"
+    },
+    {
+      "id": "strandingMain",
+      "Tr": "strandingMain-Tr",
+      "En": "strandingMain-En",
+      "Ru": "strandingMain-Ru",
+      "Fr": "strandingMain-Fr",
+      "Es": "strandingMain-Es",
+      "De": "strandingMain-De"
+    },
+    {
+      "id": "strandingLi1",
+      "Tr": "strandingLi1-Tr",
+      "En": "strandingLi1-En",
+      "Ru": "strandingLi1-Ru",
+      "Fr": "strandingLi1-Fr",
+      "Es": "strandingLi1-Es",
+      "De": "strandingLi1-De"
+    },
+    {
+      "id": "strandingLi2",
+      "Tr": "strandingLi2-Tr",
+      "En": "strandingLi2-En",
+      "Ru": "strandingLi2-Ru",
+      "Fr": "strandingLi2-Fr",
+      "Es": "strandingLi2-Es",
+      "De": "strandingLi2-De"
+    },
+    {
+      "id": "strandingLi3",
+      "Tr": "strandingLi3-Tr",
+      "En": "strandingLi3-En",
+      "Ru": "strandingLi3-Ru",
+      "Fr": "strandingLi3-Fr",
+      "Es": "strandingLi3-Es",
+      "De": "strandingLi3-De"
+    },
+    {
+      "id": "strandingLi4",
+      "Tr": "strandingLi4-Tr",
+      "En": "strandingLi4-En",
+      "Ru": "strandingLi4-Ru",
+      "Fr": "strandingLi4-Fr",
+      "Es": "strandingLi4-Es",
+      "De": "strandingLi4-De"
+    },
+    {
+      "id": "strandingLi5",
+      "Tr": "strandingLi5-Tr",
+      "En": "strandingLi5-En",
+      "Ru": "strandingLi5-Ru",
+      "Fr": "strandingLi5-Fr",
+      "Es": "strandingLi5-Es",
+      "De": "strandingLi5-De"
+    },
+    {
+      "id": "drumTwisterLineTab",
+      "Tr": "drumTwisterLineTab-Tr",
+      "En": "drumTwisterLineTab-En",
+      "Ru": "drumTwisterLineTab-Ru",
+      "Fr": "drumTwisterLineTab-Fr",
+      "Es": "drumTwisterLineTab-Es",
+      "De": "drumTwisterLineTab-De"
+    },
+    {
+      "id": "info-drumTwisterLineTab",
+      "Tr": "info-drumTwisterLineTab-Tr",
+      "En": "info-drumTwisterLineTab-En",
+      "Ru": "info-drumTwisterLineTab-Ru",
+      "Fr": "info-drumTwisterLineTab-Fr",
+      "Es": "info-drumTwisterLineTab-Es",
+      "De": "info-drumTwisterLineTab-De"
+    },
+    {
+      "id": "planetaryLineTab",
+      "Tr": "planetaryLineTab-Tr",
+      "En": "planetaryLineTab-En",
+      "Ru": "planetaryLineTab-Ru",
+      "Fr": "planetaryLineTab-Fr",
+      "Es": "planetaryLineTab-Es",
+      "De": "planetaryLineTab-De"
+    },
+    {
+      "id": "info-planetaryLineTab",
+      "Tr": "info-planetaryLineTab-Tr",
+      "En": "info-planetaryLineTab-En",
+      "Ru": "info-planetaryLineTab-Ru",
+      "Fr": "info-planetaryLineTab-Fr",
+      "Es": "info-planetaryLineTab-Es",
+      "De": "info-planetaryLineTab-De"
+    },
+    {
+      "id": "rigidStranderLineTab",
+      "Tr": "rigidStranderLineTab-Tr",
+      "En": "rigidStranderLineTab-En",
+      "Ru": "rigidStranderLineTab-Ru",
+      "Fr": "rigidStranderLineTab-Fr",
+      "Es": "rigidStranderLineTab-Es",
+      "De": "rigidStranderLineTab-De"
+    },
+    {
+      "id": "info-rigidStranderLineTab",
+      "Tr": "info-rigidStranderLineTab-Tr",
+      "En": "info-rigidStranderLineTab-En",
+      "Ru": "info-rigidStranderLineTab-Ru",
+      "Fr": "info-rigidStranderLineTab-Fr",
+      "Es": "info-rigidStranderLineTab-Es",
+      "De": "info-rigidStranderLineTab-De"
+    },
+    {
+      "id": "skipStranderLineTab",
+      "Tr": "skipStranderLineTab-Tr",
+      "En": "skipStranderLineTab-En",
+      "Ru": "skipStranderLineTab-Ru",
+      "Fr": "skipStranderLineTab-Fr",
+      "Es": "skipStranderLineTab-Es",
+      "De": "skipStranderLineTab-De"
+    },
+    {
+      "id": "info-skipStranderLineTab",
+      "Tr": "info-skipStranderLineTab-Tr",
+      "En": "info-skipStranderLineTab-En",
+      "Ru": "info-skipStranderLineTab-Ru",
+      "Fr": "info-skipStranderLineTab-Fr",
+      "Es": "info-skipStranderLineTab-Es",
+      "De": "info-skipStranderLineTab-De"
+    },
+    {
+      "id": "drumTwisterTab",
+      "Tr": "drumTwisterTab-Tr",
+      "En": "drumTwisterTab-En",
+      "Ru": "drumTwisterTab-Ru",
+      "Fr": "drumTwisterTab-Fr",
+      "Es": "drumTwisterTab-Es",
+      "De": "drumTwisterTab-De"
+    },
+    {
+      "id": "info-drumTwisterTab",
+      "Tr": "info-drumTwisterTab-Tr",
+      "En": "info-drumTwisterTab-En",
+      "Ru": "info-drumTwisterTab-Ru",
+      "Fr": "info-drumTwisterTab-Fr",
+      "Es": "info-drumTwisterTab-Es",
+      "De": "info-drumTwisterTab-De"
+    },
+    {
+      "id": "planetaryStranderTab",
+      "Tr": "planetaryStranderTab-Tr",
+      "En": "planetaryStranderTab-En",
+      "Ru": "planetaryStranderTab-Ru",
+      "Fr": "planetaryStranderTab-Fr",
+      "Es": "planetaryStranderTab-Es",
+      "De": "planetaryStranderTab-De"
+    },
+    {
+      "id": "info-planetaryStranderTab",
+      "Tr": "info-planetaryStranderTab-Tr",
+      "En": "info-planetaryStranderTab-En",
+      "Ru": "info-planetaryStranderTab-Ru",
+      "Fr": "info-planetaryStranderTab-Fr",
+      "Es": "info-planetaryStranderTab-Es",
+      "De": "info-planetaryStranderTab-De"
+    },
+    {
+      "id": "rigidStranderTab",
+      "Tr": "rigidStranderTab-Tr",
+      "En": "rigidStranderTab-En",
+      "Ru": "rigidStranderTab-Ru",
+      "Fr": "rigidStranderTab-Fr",
+      "Es": "rigidStranderTab-Es",
+      "De": "rigidStranderTab-De"
+    },
+    {
+      "id": "info-rigidStranderTab",
+      "Tr": "info-rigidStranderTab-Tr",
+      "En": "info-rigidStranderTab-En",
+      "Ru": "info-rigidStranderTab-Ru",
+      "Fr": "info-rigidStranderTab-Fr",
+      "Es": "info-rigidStranderTab-Es",
+      "De": "info-rigidStranderTab-De"
+    },
+    {
+      "id": "skipStranderTab",
+      "Tr": "skipStranderTab-Tr",
+      "En": "skipStranderTab-En",
+      "Ru": "skipStranderTab-Ru",
+      "Fr": "skipStranderTab-Fr",
+      "Es": "skipStranderTab-Es",
+      "De": "skipStranderTab-De"
+    },
+    {
+      "id": "info-skipStranderTab",
+      "Tr": "info-skipStranderTab-Tr",
+      "En": "info-skipStranderTab-En",
+      "Ru": "info-skipStranderTab-Ru",
+      "Fr": "info-skipStranderTab-Fr",
+      "Es": "info-skipStranderTab-Es",
+      "De": "info-skipStranderTab-De"
+    },
+    {
+      "id": "strandingSpareTab",
+      "Tr": "strandingSpareTab-Tr",
+      "En": "strandingSpareTab-En",
+      "Ru": "strandingSpareTab-Ru",
+      "Fr": "strandingSpareTab-Fr",
+      "Es": "strandingSpareTab-Es",
+      "De": "strandingSpareTab-De"
+    },
+    {
+      "id": "info-strandingSpareTab",
+      "Tr": "info-strandingSpareTab-Tr",
+      "En": "info-strandingSpareTab-En",
+      "Ru": "info-strandingSpareTab-Ru",
+      "Fr": "info-strandingSpareTab-Fr",
+      "Es": "info-strandingSpareTab-Es",
+      "De": "info-strandingSpareTab-De"
+    },
+    {
+      "id": "armouringMain",
+      "Tr": "armouringMain-Tr",
+      "En": "armouringMain-En",
+      "Ru": "armouringMain-Ru",
+      "Fr": "armouringMain-Fr",
+      "Es": "armouringMain-Es",
+      "De": "armouringMain-De"
+    },
+    {
+      "id": "armouringLi1",
+      "Tr": "armouringLi1-Tr",
+      "En": "armouringLi1-En",
+      "Ru": "armouringLi1-Ru",
+      "Fr": "armouringLi1-Fr",
+      "Es": "armouringLi1-Es",
+      "De": "armouringLi1-De"
+    },
+    {
+      "id": "armouringLi2",
+      "Tr": "armouringLi2-Tr",
+      "En": "armouringLi2-En",
+      "Ru": "armouringLi2-Ru",
+      "Fr": "armouringLi2-Fr",
+      "Es": "armouringLi2-Es",
+      "De": "armouringLi2-De"
+    },
+    {
+      "id": "armouringLi3",
+      "Tr": "armouringLi3-Tr",
+      "En": "armouringLi3-En",
+      "Ru": "armouringLi3-Ru",
+      "Fr": "armouringLi3-Fr",
+      "Es": "armouringLi3-Es",
+      "De": "armouringLi3-De"
+    },
+    {
+      "id": "armouringLi4",
+      "Tr": "armouringLi4-Tr",
+      "En": "armouringLi4-En",
+      "Ru": "armouringLi4-Ru",
+      "Fr": "armouringLi4-Fr",
+      "Es": "armouringLi4-Es",
+      "De": "armouringLi4-De"
+    },
+    {
+      "id": "armouringLi5",
+      "Tr": "armouringLi5-Tr",
+      "En": "armouringLi5-En",
+      "Ru": "armouringLi5-Ru",
+      "Fr": "armouringLi5-Fr",
+      "Es": "armouringLi5-Es",
+      "De": "armouringLi5-De"
+    },
+    {
+      "id": "rigidArmouringLineTab",
+      "Tr": "rigidArmouringLineTab-Tr",
+      "En": "rigidArmouringLineTab-En",
+      "Ru": "rigidArmouringLineTab-Ru",
+      "Fr": "rigidArmouringLineTab-Fr",
+      "Es": "rigidArmouringLineTab-Es",
+      "De": "rigidArmouringLineTab-De"
+    },
+    {
+      "id": "info-rigidArmouringLineTab",
+      "Tr": "info-rigidArmouringLineTab-Tr",
+      "En": "info-rigidArmouringLineTab-En",
+      "Ru": "info-rigidArmouringLineTab-Ru",
+      "Fr": "info-rigidArmouringLineTab-Fr",
+      "Es": "info-rigidArmouringLineTab-Es",
+      "De": "info-rigidArmouringLineTab-De"
+    },
+    {
+      "id": "armouringSpareTab",
+      "Tr": "armouringSpareTab-Tr",
+      "En": "armouringSpareTab-En",
+      "Ru": "armouringSpareTab-Ru",
+      "Fr": "armouringSpareTab-Fr",
+      "Es": "armouringSpareTab-Es",
+      "De": "armouringSpareTab-De"
+    },
+    {
+      "id": "info-armouringSpareTab",
+      "Tr": "info-armouringSpareTab-Tr",
+      "En": "info-armouringSpareTab-En",
+      "Ru": "info-armouringSpareTab-Ru",
+      "Fr": "info-armouringSpareTab-Fr",
+      "Es": "info-armouringSpareTab-Es",
+      "De": "info-armouringSpareTab-De"
+    },
+    {
+      "id": "pullingMain",
+      "Tr": "pullingMain-Tr",
+      "En": "pullingMain-En",
+      "Ru": "pullingMain-Ru",
+      "Fr": "pullingMain-Fr",
+      "Es": "pullingMain-Es",
+      "De": "pullingMain-De"
+    },
+    {
+      "id": "pullingLi1",
+      "Tr": "pullingLi1-Tr",
+      "En": "pullingLi1-En",
+      "Ru": "pullingLi1-Ru",
+      "Fr": "pullingLi1-Fr",
+      "Es": "pullingLi1-Es",
+      "De": "pullingLi1-De"
+    },
+    {
+      "id": "pullingLi2",
+      "Tr": "pullingLi2-Tr",
+      "En": "pullingLi2-En",
+      "Ru": "pullingLi2-Ru",
+      "Fr": "pullingLi2-Fr",
+      "Es": "pullingLi2-Es",
+      "De": "pullingLi2-De"
+    },
+    {
+      "id": "pullingLi3",
+      "Tr": "pullingLi3-Tr",
+      "En": "pullingLi3-En",
+      "Ru": "pullingLi3-Ru",
+      "Fr": "pullingLi3-Fr",
+      "Es": "pullingLi3-Es",
+      "De": "pullingLi3-De"
+    },
+    {
+      "id": "pullingLi4",
+      "Tr": "pullingLi4-Tr",
+      "En": "pullingLi4-En",
+      "Ru": "pullingLi4-Ru",
+      "Fr": "pullingLi4-Fr",
+      "Es": "pullingLi4-Es",
+      "De": "pullingLi4-De"
+    },
+    {
+      "id": "pullingLi5",
+      "Tr": "pullingLi5-Tr",
+      "En": "pullingLi5-En",
+      "Ru": "pullingLi5-Ru",
+      "Fr": "pullingLi5-Fr",
+      "Es": "pullingLi5-Es",
+      "De": "pullingLi5-De"
+    },
+    {
+      "id": "caterpillarTab",
+      "Tr": "caterpillarTab-Tr",
+      "En": "caterpillarTab-En",
+      "Ru": "caterpillarTab-Ru",
+      "Fr": "caterpillarTab-Fr",
+      "Es": "caterpillarTab-Es",
+      "De": "caterpillarTab-De"
+    },
+    {
+      "id": "info-caterpillarTab",
+      "Tr": "info-caterpillarTab-Tr",
+      "En": "info-caterpillarTab-En",
+      "Ru": "info-caterpillarTab-Ru",
+      "Fr": "info-caterpillarTab-Fr",
+      "Es": "info-caterpillarTab-Es",
+      "De": "info-caterpillarTab-De"
+    },
+    {
+      "id": "discCapstanTab",
+      "Tr": "discCapstanTab-Tr",
+      "En": "discCapstanTab-En",
+      "Ru": "discCapstanTab-Ru",
+      "Fr": "discCapstanTab-Fr",
+      "Es": "discCapstanTab-Es",
+      "De": "discCapstanTab-De"
+    },
+    {
+      "id": "info-discCapstanTab",
+      "Tr": "info-discCapstanTab-Tr",
+      "En": "info-discCapstanTab-En",
+      "Ru": "info-discCapstanTab-Ru",
+      "Fr": "info-discCapstanTab-Fr",
+      "Es": "info-discCapstanTab-Es",
+      "De": "info-discCapstanTab-De"
+    },
+    {
+      "id": "rotatingCaterpillarTab",
+      "Tr": "rotatingCaterpillarTab-Tr",
+      "En": "rotatingCaterpillarTab-En",
+      "Ru": "rotatingCaterpillarTab-Ru",
+      "Fr": "rotatingCaterpillarTab-Fr",
+      "Es": "rotatingCaterpillarTab-Es",
+      "De": "rotatingCaterpillarTab-De"
+    },
+    {
+      "id": "info-rotatingCaterpillarTab",
+      "Tr": "info-rotatingCaterpillarTab-Tr",
+      "En": "info-rotatingCaterpillarTab-En",
+      "Ru": "info-rotatingCaterpillarTab-Ru",
+      "Fr": "info-rotatingCaterpillarTab-Fr",
+      "Es": "info-rotatingCaterpillarTab-Es",
+      "De": "info-rotatingCaterpillarTab-De"
+    },
+    {
+      "id": "pullingSpareTab",
+      "Tr": "pullingSpareTab-Tr",
+      "En": "pullingSpareTab-En",
+      "Ru": "pullingSpareTab-Ru",
+      "Fr": "pullingSpareTab-Fr",
+      "Es": "pullingSpareTab-Es",
+      "De": "pullingSpareTab-De"
+    },
+    {
+      "id": "info-pullingSpareTab",
+      "Tr": "info-pullingSpareTab-Tr",
+      "En": "info-pullingSpareTab-En",
+      "Ru": "info-pullingSpareTab-Ru",
+      "Fr": "info-pullingSpareTab-Fr",
+      "Es": "info-pullingSpareTab-Es",
+      "De": "info-pullingSpareTab-De"
+    },
+    {
+      "id": "rewindingMain",
+      "Tr": "rewindingMain-Tr",
+      "En": "rewindingMain-En",
+      "Ru": "rewindingMain-Ru",
+      "Fr": "rewindingMain-Fr",
+      "Es": "rewindingMain-Es",
+      "De": "rewindingMain-De"
+    },
+    {
+      "id": "rewindingLi1",
+      "Tr": "rewindingLi1-Tr",
+      "En": "rewindingLi1-En",
+      "Ru": "rewindingLi1-Ru",
+      "Fr": "rewindingLi1-Fr",
+      "Es": "rewindingLi1-Es",
+      "De": "rewindingLi1-De"
+    },
+    {
+      "id": "rewindingLi2",
+      "Tr": "rewindingLi2-Tr",
+      "En": "rewindingLi2-En",
+      "Ru": "rewindingLi2-Ru",
+      "Fr": "rewindingLi2-Fr",
+      "Es": "rewindingLi2-Es",
+      "De": "rewindingLi2-De"
+    },
+    {
+      "id": "rewindingLi3",
+      "Tr": "rewindingLi3-Tr",
+      "En": "rewindingLi3-En",
+      "Ru": "rewindingLi3-Ru",
+      "Fr": "rewindingLi3-Fr",
+      "Es": "rewindingLi3-Es",
+      "De": "rewindingLi3-De"
+    },
+    {
+      "id": "rewindingLi4",
+      "Tr": "rewindingLi4-Tr",
+      "En": "rewindingLi4-En",
+      "Ru": "rewindingLi4-Ru",
+      "Fr": "rewindingLi4-Fr",
+      "Es": "rewindingLi4-Es",
+      "De": "rewindingLi4-De"
+    },
+    {
+      "id": "rewindingLi5",
+      "Tr": "rewindingLi5-Tr",
+      "En": "rewindingLi5-En",
+      "Ru": "rewindingLi5-Ru",
+      "Fr": "rewindingLi5-Fr",
+      "Es": "rewindingLi5-Es",
+      "De": "rewindingLi5-De"
+    },
+    {
+      "id": "rewindingLineTab",
+      "Tr": "rewindingLineTab-Tr",
+      "En": "rewindingLineTab-En",
+      "Ru": "rewindingLineTab-Ru",
+      "Fr": "rewindingLineTab-Fr",
+      "Es": "rewindingLineTab-Es",
+      "De": "rewindingLineTab-De"
+    },
+    {
+      "id": "info-rewindingLineTab",
+      "Tr": "info-rewindingLineTab-Tr",
+      "En": "info-rewindingLineTab-En",
+      "Ru": "info-rewindingLineTab-Ru",
+      "Fr": "info-rewindingLineTab-Fr",
+      "Es": "info-rewindingLineTab-Es",
+      "De": "info-rewindingLineTab-De"
+    },
+    {
+      "id": "rewindingSpareTab",
+      "Tr": "rewindingSpareTab-Tr",
+      "En": "rewindingSpareTab-En",
+      "Ru": "rewindingSpareTab-Ru",
+      "Fr": "rewindingSpareTab-Fr",
+      "Es": "rewindingSpareTab-Es",
+      "De": "rewindingSpareTab-De"
+    },
+    {
+      "id": "info-rewindingSpareTab",
+      "Tr": "info-rewindingSpareTab-Tr",
+      "En": "info-rewindingSpareTab-En",
+      "Ru": "info-rewindingSpareTab-Ru",
+      "Fr": "info-rewindingSpareTab-Fr",
+      "Es": "info-rewindingSpareTab-Es",
+      "De": "info-rewindingSpareTab-De"
+    },
+    {
+      "id": "tapingMain",
+      "Tr": "tapingMain-Tr",
+      "En": "tapingMain-En",
+      "Ru": "tapingMain-Ru",
+      "Fr": "tapingMain-Fr",
+      "Es": "tapingMain-Es",
+      "De": "tapingMain-De"
+    },
+    {
+      "id": "tapingLi1",
+      "Tr": "tapingLi1-Tr",
+      "En": "tapingLi1-En",
+      "Ru": "tapingLi1-Ru",
+      "Fr": "tapingLi1-Fr",
+      "Es": "tapingLi1-Es",
+      "De": "tapingLi1-De"
+    },
+    {
+      "id": "tapingLi2",
+      "Tr": "tapingLi2-Tr",
+      "En": "tapingLi2-En",
+      "Ru": "tapingLi2-Ru",
+      "Fr": "tapingLi2-Fr",
+      "Es": "tapingLi2-Es",
+      "De": "tapingLi2-De"
+    },
+    {
+      "id": "tapingLi3",
+      "Tr": "tapingLi3-Tr",
+      "En": "tapingLi3-En",
+      "Ru": "tapingLi3-Ru",
+      "Fr": "tapingLi3-Fr",
+      "Es": "tapingLi3-Es",
+      "De": "tapingLi3-De"
+    },
+    {
+      "id": "tapingLi4",
+      "Tr": "tapingLi4-Tr",
+      "En": "tapingLi4-En",
+      "Ru": "tapingLi4-Ru",
+      "Fr": "tapingLi4-Fr",
+      "Es": "tapingLi4-Es",
+      "De": "tapingLi4-De"
+    },
+    {
+      "id": "tapingLi5",
+      "Tr": "tapingLi5-Tr",
+      "En": "tapingLi5-En",
+      "Ru": "tapingLi5-Ru",
+      "Fr": "tapingLi5-Fr",
+      "Es": "tapingLi5-Es",
+      "De": "tapingLi5-De"
+    },
+    {
+      "id": "tapingLineTab",
+      "Tr": "tapingLineTab-Tr",
+      "En": "tapingLineTab-En",
+      "Ru": "tapingLineTab-Ru",
+      "Fr": "tapingLineTab-Fr",
+      "Es": "tapingLineTab-Es",
+      "De": "tapingLineTab-De"
+    },
+    {
+      "id": "info-tapingLineTab",
+      "Tr": "info-tapingLineTab-Tr",
+      "En": "info-tapingLineTab-En",
+      "Ru": "info-tapingLineTab-Ru",
+      "Fr": "info-tapingLineTab-Fr",
+      "Es": "info-tapingLineTab-Es",
+      "De": "info-tapingLineTab-De"
+    },
+    {
+      "id": "tangentialSingleColumnTab",
+      "Tr": "tangentialSingleColumnTab-Tr",
+      "En": "tangentialSingleColumnTab-En",
+      "Ru": "tangentialSingleColumnTab-Ru",
+      "Fr": "tangentialSingleColumnTab-Fr",
+      "Es": "tangentialSingleColumnTab-Es",
+      "De": "tangentialSingleColumnTab-De"
+    },
+    {
+      "id": "info-tangentialSingleColumnTab",
+      "Tr": "info-tangentialSingleColumnTab-Tr",
+      "En": "info-tangentialSingleColumnTab-En",
+      "Ru": "info-tangentialSingleColumnTab-Ru",
+      "Fr": "info-tangentialSingleColumnTab-Fr",
+      "Es": "info-tangentialSingleColumnTab-Es",
+      "De": "info-tangentialSingleColumnTab-De"
+    },
+    {
+      "id": "tangentialDoubleColumnTab",
+      "Tr": "tangentialDoubleColumnTab-Tr",
+      "En": "tangentialDoubleColumnTab-En",
+      "Ru": "tangentialDoubleColumnTab-Ru",
+      "Fr": "tangentialDoubleColumnTab-Fr",
+      "Es": "tangentialDoubleColumnTab-Es",
+      "De": "tangentialDoubleColumnTab-De"
+    },
+    {
+      "id": "info-tangentialDoubleColumnTab",
+      "Tr": "info-tangentialDoubleColumnTab-Tr",
+      "En": "info-tangentialDoubleColumnTab-En",
+      "Ru": "info-tangentialDoubleColumnTab-Ru",
+      "Fr": "info-tangentialDoubleColumnTab-Fr",
+      "Es": "info-tangentialDoubleColumnTab-Es",
+      "De": "info-tangentialDoubleColumnTab-De"
+    },
+    {
+      "id": "concentricTab",
+      "Tr": "concentricTab-Tr",
+      "En": "concentricTab-En",
+      "Ru": "concentricTab-Ru",
+      "Fr": "concentricTab-Fr",
+      "Es": "concentricTab-Es",
+      "De": "concentricTab-De"
+    },
+    {
+      "id": "info-concentricTab",
+      "Tr": "info-concentricTab-Tr",
+      "En": "info-concentricTab-En",
+      "Ru": "info-concentricTab-Ru",
+      "Fr": "info-concentricTab-Fr",
+      "Es": "info-concentricTab-Es",
+      "De": "info-concentricTab-De"
+    },
+    {
+      "id": "simpleTapePayOffTab",
+      "Tr": "simpleTapePayOffTab-Tr",
+      "En": "simpleTapePayOffTab-En",
+      "Ru": "simpleTapePayOffTab-Ru",
+      "Fr": "simpleTapePayOffTab-Fr",
+      "Es": "simpleTapePayOffTab-Es",
+      "De": "simpleTapePayOffTab-De"
+    },
+    {
+      "id": "info-simpleTapePayOffTab",
+      "Tr": "info-simpleTapePayOffTab-Tr",
+      "En": "info-simpleTapePayOffTab-En",
+      "Ru": "info-simpleTapePayOffTab-Ru",
+      "Fr": "info-simpleTapePayOffTab-Fr",
+      "Es": "info-simpleTapePayOffTab-Es",
+      "De": "info-simpleTapePayOffTab-De"
+    },
+    {
+      "id": "doubleTapePayOffTab",
+      "Tr": "doubleTapePayOffTab-Tr",
+      "En": "doubleTapePayOffTab-En",
+      "Ru": "doubleTapePayOffTab-Ru",
+      "Fr": "doubleTapePayOffTab-Fr",
+      "Es": "doubleTapePayOffTab-Es",
+      "De": "doubleTapePayOffTab-De"
+    },
+    {
+      "id": "info-doubleTapePayOffTab",
+      "Tr": "info-doubleTapePayOffTab-Tr",
+      "En": "info-doubleTapePayOffTab-En",
+      "Ru": "info-doubleTapePayOffTab-Ru",
+      "Fr": "info-doubleTapePayOffTab-Fr",
+      "Es": "info-doubleTapePayOffTab-Es",
+      "De": "info-doubleTapePayOffTab-De"
+    },
+    {
+      "id": "tapingSpareTab",
+      "Tr": "tapingSpareTab-Tr",
+      "En": "tapingSpareTab-En",
+      "Ru": "tapingSpareTab-Ru",
+      "Fr": "tapingSpareTab-Fr",
+      "Es": "tapingSpareTab-Es",
+      "De": "tapingSpareTab-De"
+    },
+    {
+      "id": "info-tapingSpareTab",
+      "Tr": "info-tapingSpareTab-Tr",
+      "En": "info-tapingSpareTab-En",
+      "Ru": "info-tapingSpareTab-Ru",
+      "Fr": "info-tapingSpareTab-Fr",
+      "Es": "info-tapingSpareTab-Es",
+      "De": "info-tapingSpareTab-De"
+    },
+    {
+      "id": "spoolingMain",
+      "Tr": "spoolingMain-Tr",
+      "En": "spoolingMain-En",
+      "Ru": "spoolingMain-Ru",
+      "Fr": "spoolingMain-Fr",
+      "Es": "spoolingMain-Es",
+      "De": "spoolingMain-De"
+    },
+    {
+      "id": "spoolingLi1",
+      "Tr": "spoolingLi1-Tr",
+      "En": "spoolingLi1-En",
+      "Ru": "spoolingLi1-Ru",
+      "Fr": "spoolingLi1-Fr",
+      "Es": "spoolingLi1-Es",
+      "De": "spoolingLi1-De"
+    },
+    {
+      "id": "spoolingLi2",
+      "Tr": "spoolingLi2-Tr",
+      "En": "spoolingLi2-En",
+      "Ru": "spoolingLi2-Ru",
+      "Fr": "spoolingLi2-Fr",
+      "Es": "spoolingLi2-Es",
+      "De": "spoolingLi2-De"
+    },
+    {
+      "id": "spoolingLi3",
+      "Tr": "spoolingLi3-Tr",
+      "En": "spoolingLi3-En",
+      "Ru": "spoolingLi3-Ru",
+      "Fr": "spoolingLi3-Fr",
+      "Es": "spoolingLi3-Es",
+      "De": "spoolingLi3-De"
+    },
+    {
+      "id": "spoolingLi4",
+      "Tr": "spoolingLi4-Tr",
+      "En": "spoolingLi4-En",
+      "Ru": "spoolingLi4-Ru",
+      "Fr": "spoolingLi4-Fr",
+      "Es": "spoolingLi4-Es",
+      "De": "spoolingLi4-De"
+    },
+    {
+      "id": "spoolingLi5",
+      "Tr": "spoolingLi5-Tr",
+      "En": "spoolingLi5-En",
+      "Ru": "spoolingLi5-Ru",
+      "Fr": "spoolingLi5-Fr",
+      "Es": "spoolingLi5-Es",
+      "De": "spoolingLi5-De"
+    },
+    {
+      "id": "forkTypeSpoolerTab",
+      "Tr": "forkTypeSpoolerTab-Tr",
+      "En": "forkTypeSpoolerTab-En",
+      "Ru": "forkTypeSpoolerTab-Ru",
+      "Fr": "forkTypeSpoolerTab-Fr",
+      "Es": "forkTypeSpoolerTab-Es",
+      "De": "forkTypeSpoolerTab-De"
+    },
+    {
+      "id": "info-forkTypeSpoolerTab",
+      "Tr": "info-forkTypeSpoolerTab-Tr",
+      "En": "info-forkTypeSpoolerTab-En",
+      "Ru": "info-forkTypeSpoolerTab-Ru",
+      "Fr": "info-forkTypeSpoolerTab-Fr",
+      "Es": "info-forkTypeSpoolerTab-Es",
+      "De": "info-forkTypeSpoolerTab-De"
+    },
+    {
+      "id": "highSpeedSpoolerTab",
+      "Tr": "highSpeedSpoolerTab-Tr",
+      "En": "highSpeedSpoolerTab-En",
+      "Ru": "highSpeedSpoolerTab-Ru",
+      "Fr": "highSpeedSpoolerTab-Fr",
+      "Es": "highSpeedSpoolerTab-Es",
+      "De": "highSpeedSpoolerTab-De"
+    },
+    {
+      "id": "info-highSpeedSpoolerTab",
+      "Tr": "info-highSpeedSpoolerTab-Tr",
+      "En": "info-highSpeedSpoolerTab-En",
+      "Ru": "info-highSpeedSpoolerTab-Ru",
+      "Fr": "info-highSpeedSpoolerTab-Fr",
+      "Es": "info-highSpeedSpoolerTab-Es",
+      "De": "info-highSpeedSpoolerTab-De"
+    },
+    {
+      "id": "doubleSpoolerTab",
+      "Tr": "doubleSpoolerTab-Tr",
+      "En": "doubleSpoolerTab-En",
+      "Ru": "doubleSpoolerTab-Ru",
+      "Fr": "doubleSpoolerTab-Fr",
+      "Es": "doubleSpoolerTab-Es",
+      "De": "doubleSpoolerTab-De"
+    },
+    {
+      "id": "info-doubleSpoolerTab",
+      "Tr": "info-doubleSpoolerTab-Tr",
+      "En": "info-doubleSpoolerTab-En",
+      "Ru": "info-doubleSpoolerTab-Ru",
+      "Fr": "info-doubleSpoolerTab-Fr",
+      "Es": "info-doubleSpoolerTab-Es",
+      "De": "info-doubleSpoolerTab-De"
+    },
+    {
+      "id": "portalSpoolerTab",
+      "Tr": "portalSpoolerTab-Tr",
+      "En": "portalSpoolerTab-En",
+      "Ru": "portalSpoolerTab-Ru",
+      "Fr": "portalSpoolerTab-Fr",
+      "Es": "portalSpoolerTab-Es",
+      "De": "portalSpoolerTab-De"
+    },
+    {
+      "id": "info-portalSpoolerTab",
+      "Tr": "info-portalSpoolerTab-Tr",
+      "En": "info-portalSpoolerTab-En",
+      "Ru": "info-portalSpoolerTab-Ru",
+      "Fr": "info-portalSpoolerTab-Fr",
+      "Es": "info-portalSpoolerTab-Es",
+      "De": "info-portalSpoolerTab-De"
+    },
+    {
+      "id": "flyerPayOffTab",
+      "Tr": "flyerPayOffTab-Tr",
+      "En": "flyerPayOffTab-En",
+      "Ru": "flyerPayOffTab-Ru",
+      "Fr": "flyerPayOffTab-Fr",
+      "Es": "flyerPayOffTab-Es",
+      "De": "flyerPayOffTab-De"
+    },
+    {
+      "id": "info-flyerPayOffTab",
+      "Tr": "info-flyerPayOffTab-Tr",
+      "En": "info-flyerPayOffTab-En",
+      "Ru": "info-flyerPayOffTab-Ru",
+      "Fr": "info-flyerPayOffTab-Fr",
+      "Es": "info-flyerPayOffTab-Es",
+      "De": "info-flyerPayOffTab-De"
+    },
+    {
+      "id": "multiWirePayOffTab",
+      "Tr": "multiWirePayOffTab-Tr",
+      "En": "multiWirePayOffTab-En",
+      "Ru": "multiWirePayOffTab-Ru",
+      "Fr": "multiWirePayOffTab-Fr",
+      "Es": "multiWirePayOffTab-Es",
+      "De": "multiWirePayOffTab-De"
+    },
+    {
+      "id": "info-multiWirePayOffTab",
+      "Tr": "info-multiWirePayOffTab-Tr",
+      "En": "info-multiWirePayOffTab-En",
+      "Ru": "info-multiWirePayOffTab-Ru",
+      "Fr": "info-multiWirePayOffTab-Fr",
+      "Es": "info-multiWirePayOffTab-Es",
+      "De": "info-multiWirePayOffTab-De"
+    },
+    {
+      "id": "backTwistPayOffTab",
+      "Tr": "backTwistPayOffTab-Tr",
+      "En": "backTwistPayOffTab-En",
+      "Ru": "backTwistPayOffTab-Ru",
+      "Fr": "backTwistPayOffTab-Fr",
+      "Es": "backTwistPayOffTab-Es",
+      "De": "backTwistPayOffTab-De"
+    },
+    {
+      "id": "info-backTwistPayOffTab",
+      "Tr": "info-backTwistPayOffTab-Tr",
+      "En": "info-backTwistPayOffTab-En",
+      "Ru": "info-backTwistPayOffTab-Ru",
+      "Fr": "info-backTwistPayOffTab-Fr",
+      "Es": "info-backTwistPayOffTab-Es",
+      "De": "info-backTwistPayOffTab-De"
+    },
+    {
+      "id": "spoolingSpareTab",
+      "Tr": "spoolingSpareTab-Tr",
+      "En": "spoolingSpareTab-En",
+      "Ru": "spoolingSpareTab-Ru",
+      "Fr": "spoolingSpareTab-Fr",
+      "Es": "spoolingSpareTab-Es",
+      "De": "spoolingSpareTab-De"
+    },
+    {
+      "id": "info-spoolingSpareTab",
+      "Tr": "info-spoolingSpareTab-Tr",
+      "En": "info-spoolingSpareTab-En",
+      "Ru": "info-spoolingSpareTab-Ru",
+      "Fr": "info-spoolingSpareTab-Fr",
+      "Es": "info-spoolingSpareTab-Es",
+      "De": "info-spoolingSpareTab-De"
+    },
+    {
+      "id": "CoilingMain",
+      "Tr": "CoilingMain-Tr",
+      "En": "CoilingMain-En",
+      "Ru": "CoilingMain-Ru",
+      "Fr": "CoilingMain-Fr",
+      "Es": "CoilingMain-Es",
+      "De": "CoilingMain-De"
+    },
+    {
+      "id": "coilingLi1",
+      "Tr": "coilingLi1-Tr",
+      "En": "coilingLi1-En",
+      "Ru": "coilingLi1-Ru",
+      "Fr": "coilingLi1-Fr",
+      "Es": "coilingLi1-Es",
+      "De": "coilingLi1-De"
+    },
+    {
+      "id": "coilingLi2",
+      "Tr": "coilingLi2-Tr",
+      "En": "coilingLi2-En",
+      "Ru": "coilingLi2-Ru",
+      "Fr": "coilingLi2-Fr",
+      "Es": "coilingLi2-Es",
+      "De": "coilingLi2-De"
+    },
+    {
+      "id": "coilingLi3",
+      "Tr": "coilingLi3-Tr",
+      "En": "coilingLi3-En",
+      "Ru": "coilingLi3-Ru",
+      "Fr": "coilingLi3-Fr",
+      "Es": "coilingLi3-Es",
+      "De": "coilingLi3-De"
+    },
+    {
+      "id": "coilingLi4",
+      "Tr": "coilingLi4-Tr",
+      "En": "coilingLi4-En",
+      "Ru": "coilingLi4-Ru",
+      "Fr": "coilingLi4-Fr",
+      "Es": "coilingLi4-Es",
+      "De": "coilingLi4-De"
+    },
+    {
+      "id": "coilingLi5",
+      "Tr": "coilingLi5-Tr",
+      "En": "coilingLi5-En",
+      "Ru": "coilingLi5-Ru",
+      "Fr": "coilingLi5-Fr",
+      "Es": "coilingLi5-Es",
+      "De": "coilingLi5-De"
+    },
+    {
+      "id": "aıutomaticCoilerTab",
+      "Tr": "aıutomaticCoilerTab-Tr",
+      "En": "aıutomaticCoilerTab-En",
+      "Ru": "aıutomaticCoilerTab-Ru",
+      "Fr": "aıutomaticCoilerTab-Fr",
+      "Es": "aıutomaticCoilerTab-Es",
+      "De": "aıutomaticCoilerTab-De"
+    },
+    {
+      "id": "info-aıutomaticCoilerTab",
+      "Tr": "info-aıutomaticCoilerTab-Tr",
+      "En": "info-aıutomaticCoilerTab-En",
+      "Ru": "info-aıutomaticCoilerTab-Ru",
+      "Fr": "info-aıutomaticCoilerTab-Fr",
+      "Es": "info-aıutomaticCoilerTab-Es",
+      "De": "info-aıutomaticCoilerTab-De"
+    },
+    {
+      "id": "manuelCoilerTab",
+      "Tr": "manuelCoilerTab-Tr",
+      "En": "manuelCoilerTab-En",
+      "Ru": "manuelCoilerTab-Ru",
+      "Fr": "manuelCoilerTab-Fr",
+      "Es": "manuelCoilerTab-Es",
+      "De": "manuelCoilerTab-De"
+    },
+    {
+      "id": "info-manuelCoilerTab",
+      "Tr": "info-manuelCoilerTab-Tr",
+      "En": "info-manuelCoilerTab-En",
+      "Ru": "info-manuelCoilerTab-Ru",
+      "Fr": "info-manuelCoilerTab-Fr",
+      "Es": "info-manuelCoilerTab-Es",
+      "De": "info-manuelCoilerTab-De"
+    },
+    {
+      "id": "ReelCoilerTab",
+      "Tr": "ReelCoilerTab-Tr",
+      "En": "ReelCoilerTab-En",
+      "Ru": "ReelCoilerTab-Ru",
+      "Fr": "ReelCoilerTab-Fr",
+      "Es": "ReelCoilerTab-Es",
+      "De": "ReelCoilerTab-De"
+    },
+    {
+      "id": "info-ReelCoilerTab",
+      "Tr": "info-ReelCoilerTab-Tr",
+      "En": "info-ReelCoilerTab-En",
+      "Ru": "info-ReelCoilerTab-Ru",
+      "Fr": "info-ReelCoilerTab-Fr",
+      "Es": "info-ReelCoilerTab-Es",
+      "De": "info-ReelCoilerTab-De"
+    },
+    {
+      "id": "coilingSpareTab",
+      "Tr": "coilingSpareTab-Tr",
+      "En": "coilingSpareTab-En",
+      "Ru": "coilingSpareTab-Ru",
+      "Fr": "coilingSpareTab-Fr",
+      "Es": "coilingSpareTab-Es",
+      "De": "coilingSpareTab-De"
+    },
+    {
+      "id": "info-coilingSpareTab",
+      "Tr": "info-coilingSpareTab-Tr",
+      "En": "info-coilingSpareTab-En",
+      "Ru": "info-coilingSpareTab-Ru",
+      "Fr": "info-coilingSpareTab-Fr",
+      "Es": "info-coilingSpareTab-Es",
+      "De": "info-coilingSpareTab-De"
+    },
+    {
+      "id": "othersMain",
+      "Tr": "othersMain-Tr",
+      "En": "othersMain-En",
+      "Ru": "othersMain-Ru",
+      "Fr": "othersMain-Fr",
+      "Es": "othersMain-Es",
+      "De": "othersMain-De"
+    },
+    {
+      "id": "othersLi1",
+      "Tr": "othersLi1-Tr",
+      "En": "othersLi1-En",
+      "Ru": "othersLi1-Ru",
+      "Fr": "othersLi1-Fr",
+      "Es": "othersLi1-Es",
+      "De": "othersLi1-De"
+    },
+    {
+      "id": "othersLi2",
+      "Tr": "othersLi2-Tr",
+      "En": "othersLi2-En",
+      "Ru": "othersLi2-Ru",
+      "Fr": "othersLi2-Fr",
+      "Es": "othersLi2-Es",
+      "De": "othersLi2-De"
+    },
+    {
+      "id": "othersLi3",
+      "Tr": "othersLi3-Tr",
+      "En": "othersLi3-En",
+      "Ru": "othersLi3-Ru",
+      "Fr": "othersLi3-Fr",
+      "Es": "othersLi3-Es",
+      "De": "othersLi3-De"
+    },
+    {
+      "id": "othersLi4",
+      "Tr": "othersLi4-Tr",
+      "En": "othersLi4-En",
+      "Ru": "othersLi4-Ru",
+      "Fr": "othersLi4-Fr",
+      "Es": "othersLi4-Es",
+      "De": "othersLi4-De"
+    },
+    {
+      "id": "othersLi5",
+      "Tr": "othersLi5-Tr",
+      "En": "othersLi5-En",
+      "Ru": "othersLi5-Ru",
+      "Fr": "othersLi5-Fr",
+      "Es": "othersLi5-Es",
+      "De": "othersLi5-De"
+    },
+    {
+      "id": "accumulatorDancerTab",
+      "Tr": "accumulatorDancerTab-Tr",
+      "En": "accumulatorDancerTab-En",
+      "Ru": "accumulatorDancerTab-Ru",
+      "Fr": "accumulatorDancerTab-Fr",
+      "Es": "accumulatorDancerTab-Es",
+      "De": "accumulatorDancerTab-De"
+    },
+    {
+      "id": "info-accumulatorDancerTab",
+      "Tr": "info-accumulatorDancerTab-Tr",
+      "En": "info-accumulatorDancerTab-En",
+      "Ru": "info-accumulatorDancerTab-Ru",
+      "Fr": "info-accumulatorDancerTab-Fr",
+      "Es": "info-accumulatorDancerTab-Es",
+      "De": "info-accumulatorDancerTab-De"
+    },
+    {
+      "id": "brakeUnitTab",
+      "Tr": "brakeUnitTab-Tr",
+      "En": "brakeUnitTab-En",
+      "Ru": "brakeUnitTab-Ru",
+      "Fr": "brakeUnitTab-Fr",
+      "Es": "brakeUnitTab-Es",
+      "De": "brakeUnitTab-De"
+    },
+    {
+      "id": "info-brakeUnitTab",
+      "Tr": "info-brakeUnitTab-Tr",
+      "En": "info-brakeUnitTab-En",
+      "Ru": "info-brakeUnitTab-Ru",
+      "Fr": "info-brakeUnitTab-Fr",
+      "Es": "info-brakeUnitTab-Es",
+      "De": "info-brakeUnitTab-De"
+    },
+    {
+      "id": "lengthMeasuringTab",
+      "Tr": "lengthMeasuringTab-Tr",
+      "En": "lengthMeasuringTab-En",
+      "Ru": "lengthMeasuringTab-Ru",
+      "Fr": "lengthMeasuringTab-Fr",
+      "Es": "lengthMeasuringTab-Es",
+      "De": "lengthMeasuringTab-De"
+    },
+    {
+      "id": "info-lengthMeasuringTab",
+      "Tr": "info-lengthMeasuringTab-Tr",
+      "En": "info-lengthMeasuringTab-En",
+      "Ru": "info-lengthMeasuringTab-Ru",
+      "Fr": "info-lengthMeasuringTab-Fr",
+      "Es": "info-lengthMeasuringTab-Es",
+      "De": "info-lengthMeasuringTab-De"
+    },
+    {
+      "id": "powderingUnitTab",
+      "Tr": "powderingUnitTab-Tr",
+      "En": "powderingUnitTab-En",
+      "Ru": "powderingUnitTab-Ru",
+      "Fr": "powderingUnitTab-Fr",
+      "Es": "powderingUnitTab-Es",
+      "De": "powderingUnitTab-De"
+    },
+    {
+      "id": "info-powderingUnitTab",
+      "Tr": "info-powderingUnitTab-Tr",
+      "En": "info-powderingUnitTab-En",
+      "Ru": "info-powderingUnitTab-Ru",
+      "Fr": "info-powderingUnitTab-Fr",
+      "Es": "info-powderingUnitTab-Es",
+      "De": "info-powderingUnitTab-De"
+    },
+    {
+      "id": "bowAndSparesTab",
+      "Tr": "bowAndSparesTab-Tr",
+      "En": "bowAndSparesTab-En",
+      "Ru": "bowAndSparesTab-Ru",
+      "Fr": "bowAndSparesTab-Fr",
+      "Es": "bowAndSparesTab-Es",
+      "De": "bowAndSparesTab-De"
+    },
+    {
+      "id": "info-bowAndSparesTab",
+      "Tr": "info-bowAndSparesTab-Tr",
+      "En": "info-bowAndSparesTab-En",
+      "Ru": "info-bowAndSparesTab-Ru",
+      "Fr": "info-bowAndSparesTab-Fr",
+      "Es": "info-bowAndSparesTab-Es",
+      "De": "info-bowAndSparesTab-De"
+    },
+    {
+      "id": "devicesTab",
+      "Tr": "devicesTab-Tr",
+      "En": "devicesTab-En",
+      "Ru": "devicesTab-Ru",
+      "Fr": "devicesTab-Fr",
+      "Es": "devicesTab-Es",
+      "De": "devicesTab-De"
+    },
+    {
+      "id": "info-devicesTab",
+      "Tr": "info-devicesTab-Tr",
+      "En": "info-devicesTab-En",
+      "Ru": "info-devicesTab-Ru",
+      "Fr": "info-devicesTab-Fr",
+      "Es": "info-devicesTab-Es",
+      "De": "info-devicesTab-De"
+    },
+    {
+      "id": "slipRingTab",
+      "Tr": "slipRingTab-Tr",
+      "En": "slipRingTab-En",
+      "Ru": "slipRingTab-Ru",
+      "Fr": "slipRingTab-Fr",
+      "Es": "slipRingTab-Es",
+      "De": "slipRingTab-De"
+    },
+    {
+      "id": "info-slipRingTab",
+      "Tr": "info-slipRingTab-Tr",
+      "En": "info-slipRingTab-En",
+      "Ru": "info-slipRingTab-Ru",
+      "Fr": "info-slipRingTab-Fr",
+      "Es": "info-slipRingTab-Es",
+      "De": "info-slipRingTab-De"
+    },
+    {
+      "id": "reelTab",
+      "Tr": "reelTab-Tr",
+      "En": "reelTab-En",
+      "Ru": "reelTab-Ru",
+      "Fr": "reelTab-Fr",
+      "Es": "reelTab-Es",
+      "De": "reelTab-De"
+    },
+    {
+      "id": "info-reelTab",
+      "Tr": "info-reelTab-Tr",
+      "En": "info-reelTab-En",
+      "Ru": "info-reelTab-Ru",
+      "Fr": "info-reelTab-Fr",
+      "Es": "info-reelTab-Es",
+      "De": "info-reelTab-De"
+    },
+    {
+      "id": "ceramicsTab",
+      "Tr": "ceramicsTab-Tr",
+      "En": "ceramicsTab-En",
+      "Ru": "ceramicsTab-Ru",
+      "Fr": "ceramicsTab-Fr",
+      "Es": "ceramicsTab-Es",
+      "De": "ceramicsTab-De"
+    },
+    {
+      "id": "info-ceramicsTab",
+      "Tr": "info-ceramicsTab-Tr",
+      "En": "info-ceramicsTab-En",
+      "Ru": "info-ceramicsTab-Ru",
+      "Fr": "info-ceramicsTab-Fr",
+      "Es": "info-ceramicsTab-Es",
+      "De": "info-ceramicsTab-De"
     }
+    
   ]
 
 }
