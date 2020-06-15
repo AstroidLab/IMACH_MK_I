@@ -4,22 +4,22 @@
 # General
 --------------------------------------------------------------*/
 body {
-    font-family: "Open Sans", sans-serif;
+    font-family: Montserrat, sans-serif;
     color: #444444;
 }
 
 a {
-    color: #428bca;
+    color: #ffffff;
 }
 
     a:hover {
-        color: #6aa3d5;
+        color: #ffffff;
         text-decoration: none;
     }
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway", sans-serif;
+    font-family: Montserrat, sans-serif;
 }
 
 
@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 19px;
         margin: 0;
         padding: 0;
-        font-family: "Open Sans", sans-serif;
+        font-family: Montserrat, sans-serif;
         color: white;
         margin: 0;
         padding: 0;
@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 12px;
     text-transform: uppercase;
     font-weight: 600;
-    font-family: "Open Sans", sans-serif;
+    font-family: Montserrat, sans-serif;
 }
 
     .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5, h6 {
     position: fixed;
     right: 15px;
     top: 16px;
-    z-index: 9998;
+    z-index: 999;
     border: 0;
     background: none;
     font-size: 24px;
@@ -838,7 +838,7 @@ section {
             text-transform: uppercase;
             display: block;
             font-weight: 600;
-            font-family: "Poppins", sans-serif;
+            font-family: Montserrat, sans-serif;
             color: #394047;
         }
 
@@ -1227,7 +1227,7 @@ section {
         font-size: 16px;
         font-weight: 600;
         text-transform: uppercase;
-        font-family: "Poppins", sans-serif;
+        font-family: Montserrat, sans-serif;
     }
 
     .contact .info p {
@@ -1286,7 +1286,7 @@ section {
         }
 
     .contact .php-email-form label {
-        font-family: "Poppins", sans-serif;
+        font-family: Montserrat, sans-serif;
         margin-bottom: 5px;
         color: #777777;
     }
@@ -1639,7 +1639,7 @@ section {
 .modal-body {
     color: white;
     background: #707070;
-    font-family: Helvetica, sans-serif
+    font-family: Montserrat, sans-serif
 }
 
 .carousel-inner img {
@@ -1679,16 +1679,20 @@ section {
 
 .nav-tabs {
     justify-content: center;
+    
 }
 
+
 .tab-btn {
-    font-size: 32px;
+    font-size: 20px;
     color: darkgrey;
+    padding-top: 18px;
 }
+
 
 @media (max-width: 1200px) {
     .nav-tabs {
-        min-width: 1116px;
+        min-width: 910px;
         justify-content: unset;
         /*width: 120%;*/
     }
@@ -1706,3 +1710,4 @@ section {
     float: left;
     width: auto;
 }
+ 
